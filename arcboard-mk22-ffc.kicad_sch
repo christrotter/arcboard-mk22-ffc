@@ -3633,7 +3633,7 @@
 		)
 		(uuid "40d3aa54-3c03-47b1-86d8-130f016fcd49")
 	)
-	(text "ROW2COL notes\nROW0 = thumbs\nROW1-6 = keys (however, we only use 1-4)... should we nuke the others?\nROW7 = paddle1\nROW8 = paddle2\nROW9 = paddle3\nROW10 = dpad"
+	(text "ROW2COL notes\nROW0 = thumbs\nROW1-6 = keys (however, we only use 1-4)... should we nuke the others?\n(narrator: we did not)\nROW7 = paddle1\nROW8 = paddle2\nROW9 = paddle3\nROW10 = dpad"
 		(exclude_from_sim no)
 		(at 314.96 30.734 0)
 		(effects
