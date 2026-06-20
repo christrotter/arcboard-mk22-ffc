@@ -9466,6 +9466,16 @@
 		(layer "F.SilkS")
 		(uuid "14cc29b0-107d-44aa-a0fb-77d955c5d184")
 	)
+	(gr_line
+		(start 176.3 51.100656)
+		(end 183.06 51.119344)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "1548f48f-37fb-430f-8293-a5c6532de567")
+	)
 	(gr_arc
 		(start 39.7437 46.1)
 		(mid 40.70037 46.290285)
@@ -14154,6 +14164,16 @@
 		(layer "F.SilkS")
 		(uuid "e3602b1c-b0e1-4cff-8576-0e3abf2ecd5f")
 	)
+	(gr_line
+		(start 176.36 34.74)
+		(end 183.12 34.758688)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "e3b7ed01-367b-47aa-90d3-9ff49edd77a9")
+	)
 	(gr_poly
 		(pts
 			(xy 64.655 20.515) (xy 61.17 20.73) (xy 64.83 24.19)
@@ -14819,6 +14839,16 @@
 		(locked yes)
 		(layer "F.SilkS")
 		(uuid "fb892f48-4846-4fd7-80f0-56d5df251411")
+	)
+	(gr_line
+		(start 190.82 53.301312)
+		(end 209.26 53.278688)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "F.SilkS")
+		(uuid "fd75aaff-23da-4003-9b86-ff3f534047ae")
 	)
 	(gr_line
 		(start 269.5 56)
@@ -16406,6 +16436,16 @@
 		(locked yes)
 		(layer "B.SilkS")
 		(uuid "3df62388-20cc-41a1-ad46-ba55490d8642")
+	)
+	(gr_line
+		(start 176.3 51.250656)
+		(end 183.16 51.259344)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "3f731845-136a-4796-ac44-17f7a201d1eb")
 	)
 	(gr_line
 		(start 268.230761 64.65)
@@ -18825,6 +18865,16 @@
 		(uuid "a9a62710-ee72-49f7-9233-f66364cd27a1")
 	)
 	(gr_line
+		(start 190.82 53.451312)
+		(end 209.26 53.428688)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "a9c07e12-7d1c-49a7-9aa4-37aae8991522")
+	)
+	(gr_line
 		(start 112.35 -21.95)
 		(end 7.2 -21.95)
 		(stroke
@@ -20723,6 +20773,16 @@
 		(fill yes)
 		(layer "B.SilkS")
 		(uuid "fd2a8c8d-b299-4be6-86ab-0f48af331a0b")
+	)
+	(gr_line
+		(start 176.36 34.89)
+		(end 183.22 34.898688)
+		(stroke
+			(width 0.5)
+			(type dot)
+		)
+		(layer "B.SilkS")
+		(uuid "fd3338f2-1b9f-41fa-8040-01fe7f9a5104")
 	)
 	(gr_rect
 		(start 136.425 -20.61)
@@ -29513,7 +29573,7 @@
 			)
 		)
 	)
-	(gr_text "Stiffener notes:\nAll single-row finger (0.5mm-spacing) must be 0.3mm total thickness.\nAll double-row finger (0.3mm spacing) must be 0.2mm total thickness.\nAll stiffeners are polyimide."
+	(gr_text "Stiffener notes:\nAll single-row finger (0.5mm-spacing) must be 0.3mm total thickness - including stiffener.\nAll double-row finger (0.3mm spacing) must be 0.2mm total thickness - including stiffener.\nAll stiffeners are polyimide."
 		(at 2.04 -49.07 0)
 		(layer "Cmts.User")
 		(uuid "7cebf7de-50f9-452d-939e-a87b7b747fd2")
@@ -39213,14 +39273,6 @@
 		(layer "B.Cu")
 		(net 7)
 		(uuid "1298f890-6ef7-478a-8259-dc75002e4225")
-	)
-	(segment
-		(start 203.92 43.49)
-		(end 203.46 43.49)
-		(width 0.4)
-		(layer "B.Cu")
-		(net 7)
-		(uuid "13cc696e-01aa-4480-838c-fd169b9bbf2f")
 	)
 	(segment
 		(start 76.364 42.636)
@@ -51493,14 +51545,6 @@
 		(uuid "2b6ed6d6-ca31-4666-8a5a-dcee006d4102")
 	)
 	(segment
-		(start 151.03322 -13.28678)
-		(end 151.07644 -13.33)
-		(width 0.13)
-		(layer "B.Cu")
-		(net 21)
-		(uuid "2df69458-9377-4747-9f5d-19b87676e03e")
-	)
-	(segment
 		(start 123.32 4.84)
 		(end 123.84 4.84)
 		(width 0.16)
@@ -57635,14 +57679,6 @@
 		(layer "B.Cu")
 		(net 36)
 		(uuid "626cfeb5-ac87-4191-aee2-e607a3da1b1b")
-	)
-	(segment
-		(start 163.37 -15.5)
-		(end 163.29911 -15.5)
-		(width 0.13)
-		(layer "B.Cu")
-		(net 36)
-		(uuid "67f0bddd-9a53-4886-9168-f8311ea09ce0")
 	)
 	(segment
 		(start 127.04 14.98)
